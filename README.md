@@ -15,8 +15,7 @@ npm create vite@latest front-end-client # 选择Vue和JavaScript
 npm create vite@latest front-end-admin # 选择Vue和JavaScript
 
 cd front-end-client
-npm install pnpm -g
-pnpm install
+npm install
 
 
 
